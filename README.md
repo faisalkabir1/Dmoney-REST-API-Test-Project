@@ -30,10 +30,10 @@ Created **test cases** for the following scenarios:
 ### 2. **Postman Collection**
 - Created a Postman collection for all the scenarios.
 - Added **negative test cases** for validation and error handling.
+- Collection [Click Here to see the Postman Collection](https://www.postman.com/satellite-operator-81623342/workspace/my-practice-workspace/collection/39262502-36f3c8d0-1efa-44f3-8c9d-1cefe875caab?action=share&creator=39262502)
 - Endpoints Used:
   - [User API](http://dmoney.roadtocareer.net/api-docs/user)
   - [Transaction API](http://dmoney.roadtocareer.net/api-docs/transaction)
-[Click Here to see the Postman COllection](https://www.postman.com/satellite-operator-81623342/workspace/my-practice-workspace/collection/39262502-36f3c8d0-1efa-44f3-8c9d-1cefe875caab?action=share&creator=39262502)
 ---
 
 ### 3. **Newman Report**

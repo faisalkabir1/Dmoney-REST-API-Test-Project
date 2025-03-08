@@ -41,7 +41,8 @@ Created **test cases** for the following scenarios:
 - Included summary screenshots of the execution.
 
 View the Newman report screenshots below:
-![image](https://github.com/user-attachments/assets/0110de94-a956-4f0e-8b1b-8043eab8879d)
+![image](https://github.com/user-attachments/assets/4e66a73c-ad28-4327-9dda-431526704679)
+![image](https://github.com/user-attachments/assets/37c4f1b5-30ee-4af5-b03a-3740521a9ed6)
 
 
 ---
@@ -106,4 +107,4 @@ The script will run tests against the Dmoney REST API and display the results in
 
 ## Contact
 
-For any questions or issues, feel free to open an issue in the repository or contact me via [Email](onlyfaisalkabir@gmail.com)
+For any questions or issues, feel free to open an issue in the repository or contact me via - onlyfaisalkabir@gmail.com

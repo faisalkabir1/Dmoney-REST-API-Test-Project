@@ -1,4 +1,4 @@
-# Dmoney-REST-API-Test-Project
+# Dmoney-REST-API-Test-Project Using Postman
 ## Project Overview
 - This project focuses on testing the **Dmoney REST API** to validate its functionality, identify potential issues, and provide improvement recommendations. The testing     
   covers the creation, management, and processing of transactions across various user roles, including Admin, System User, Agent, Customers, and Merchant.
